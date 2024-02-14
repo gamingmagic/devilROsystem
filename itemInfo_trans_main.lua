@@ -77,7 +77,7 @@ tbl = {
 		unidentifiedResourceName = "¸¶½ºÅ©",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
 		identifiedDisplayName = "Artic Wings",
-		identifiedResourceName = "artic_wing",
+		identifiedResourceName = "articwing",
 		identifiedDescriptionName = {
 			"Int +10.",
 			"Matk Rate +10%.",
