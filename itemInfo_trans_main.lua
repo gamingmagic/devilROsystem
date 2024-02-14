@@ -92,6 +92,24 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 5280
 	},
+	[70006] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "¸¶½ºÅ©",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Evil Demon Wings",
+		identifiedResourceName = "Evil_Demon_Wings",
+		identifiedDescriptionName = {
+			"Str +10.",
+			"5% Resistance against Shadow Property.",
+			"Receive 5% more damage from Holy attacks.",
+			"Class:^6666CC Headgear^000000",
+			"Defense:^0000FF 0^000000",
+			"Position:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+		},
+		slotCount = 1,
+		ClassNum = 4415
+	},
 }
 
 function main()
