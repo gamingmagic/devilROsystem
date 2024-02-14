@@ -51,7 +51,7 @@ tbl = {
 			"Weight:^009900 10^000000",
 		},
 		slotCount = 1,
-		ClassNum = 5279
+		ClassNum = 3007
 	},
 	[70004] = {
 		unidentifiedDisplayName = "Mask",
@@ -70,7 +70,7 @@ tbl = {
 			"Weight:^009900 10^000000",
 		},
 		slotCount = 1,
-		ClassNum = 5280
+		ClassNum = 5279
 	},
 	[70005] = {
 		unidentifiedDisplayName = "Mask",
@@ -90,7 +90,7 @@ tbl = {
 			"Weight:^009900 10^000000",
 		},
 		slotCount = 1,
-		ClassNum = 5281
+		ClassNum = 5280
 	},
 }
 
