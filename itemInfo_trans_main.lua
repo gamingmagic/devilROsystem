@@ -15,7 +15,7 @@ tbl = {
 			"Weight:^009900 10^000000",
 		},
 		slotCount = 1,
-		ClassNum = 5001
+		ClassNum = 5277
 	},
 	[70002] = {
 		unidentifiedDisplayName = "Mask",
@@ -33,14 +33,14 @@ tbl = {
 			"Weight:^009900 10^000000",
 		},
 		slotCount = 1,
-		ClassNum = 5002
+		ClassNum = 5278
 	},
 	[70003] = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Demon Wings",
-		identifiedResourceName = "demon_wings",
+		identifiedDisplayName = "Arc Demon Wings",
+		identifiedResourceName = "archdemonwings",
 		identifiedDescriptionName = {
 			"Wings from a Demon.",
 			"Dex +3.",
@@ -51,7 +51,7 @@ tbl = {
 			"Weight:^009900 10^000000",
 		},
 		slotCount = 1,
-		ClassNum = 5003
+		ClassNum = 5279
 	},
 	[70004] = {
 		unidentifiedDisplayName = "Mask",
@@ -70,14 +70,14 @@ tbl = {
 			"Weight:^009900 10^000000",
 		},
 		slotCount = 1,
-		ClassNum = 5004
+		ClassNum = 5280
 	},
 	[70005] = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
 		identifiedDisplayName = "Artic Wings",
-		identifiedResourceName = "neo_artic_wing",
+		identifiedResourceName = "artic_wing",
 		identifiedDescriptionName = {
 			"Int +10.",
 			"Matk Rate +10%.",
@@ -90,7 +90,7 @@ tbl = {
 			"Weight:^009900 10^000000",
 		},
 		slotCount = 1,
-		ClassNum = 5005
+		ClassNum = 5281
 	},
 }
 
