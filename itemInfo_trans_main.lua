@@ -72,6 +72,26 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 5004
 	},
+	[70005] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "¸¶½ºÅ©",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Artic Wings",
+		identifiedResourceName = "neo_artic_wing",
+		identifiedDescriptionName = {
+			"Int +10.",
+			"Matk Rate +10%.",
+			"10% Resistance against Water Property. ",
+			"Receive 5% more damage from Wind attacks",
+			"Has certain chance of inflicting the Freeze status to enemies when user receives Physical Damage.",
+			"Class:^6666CC Headgear^000000",
+			"Defense:^0000FF 0^000000",
+			"Position:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+		},
+		slotCount = 1,
+		ClassNum = 5005
+	},
 }
 
 function main()
