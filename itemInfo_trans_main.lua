@@ -115,7 +115,7 @@ tbl = {
 		unidentifiedResourceName = "¸¶½ºÅ©",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
 		identifiedDisplayName = "Phoenix Wings",
-		identifiedResourceName = "Phoenix_Wings-standard",
+		identifiedResourceName = "Phoenix_Wingsstandard",
 		identifiedDescriptionName = {
 			"A set of celestial wings, crafted from phoenix flames. Grants the wearer great Vitality.",
 			"Vit +10",
