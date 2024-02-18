@@ -110,6 +110,26 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 4415
 	},
+	[70007] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "¸¶½ºÅ©",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Evil Demon Wings",
+		identifiedResourceName = "Phoenix_Wings-standard",
+		identifiedDescriptionName = {
+			"A set of celestial wings, crafted from phoenix flames. Grants the wearer great Vitality.",
+			"Vit +10",
+			"MaxHP +10%",
+			"Reduce Damage from Demi human monsters by 3%",
+			"Increases damage taken from Water element monsters by 5%.",
+			"Class:^6666CC Headgear^000000",
+			"Defense:^0000FF 0^000000",
+			"Position:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+		},
+		slotCount = 1,
+		ClassNum = 5281
+	},
 }
 
 function main()
