@@ -114,7 +114,7 @@ tbl = {
 		unidentifiedDisplayName = "Mask",
 		unidentifiedResourceName = "마스크",
 		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
-		identifiedDisplayName = "Evil Demon Wings",
+		identifiedDisplayName = "Phoenix Wings",
 		identifiedResourceName = "Phoenix_Wings-standard",
 		identifiedDescriptionName = {
 			"A set of celestial wings, crafted from phoenix flames. Grants the wearer great Vitality.",
@@ -129,6 +129,62 @@ tbl = {
 		},
 		slotCount = 1,
 		ClassNum = 5281
+	},
+	[70008] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Arc Angel Wings",
+		identifiedResourceName = "ARCHANGELWINGS",
+		identifiedDescriptionName = {
+			"A set of celestial wings, crafted from phoenix flames. Grants the wearer great Vitality.",
+			"Vit +10",
+			"MaxHP +10%",
+			"Reduce Damage from Demi human monsters by 3%",
+			"Increases damage taken from Water element monsters by 5%.",
+			"Class:^6666CC Headgear^000000",
+			"Defense:^0000FF 0^000000",
+			"Position:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+		},
+		slotCount = 1,
+		ClassNum = 3006
+	},
+	[70009] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "White Butterfly Wings",
+		identifiedResourceName = "White_Butterfly_Wings",
+		identifiedDescriptionName = {
+			"Wings from an enormous White Butterfly.",
+			"Agi +10.",
+			"Flee +30",
+			"Class:^6666CC Headgear^000000",
+			"Defense:^0000FF 0^000000",
+			"Position:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+		},
+		slotCount = 1,
+		ClassNum = 3159
+	},
+	[70010] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Black Butterfly Wings",
+		identifiedResourceName = "BLACK_BUTTERFLY_WINGS",
+		identifiedDescriptionName = {
+			"Wings from an enormous White Butterfly.",
+			"Agi +10.",
+			"Perfect Dodge +5",
+			"Class:^6666CC Headgear^000000",
+			"Defense:^0000FF 0^000000",
+			"Position:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+		},
+		slotCount = 1,
+		ClassNum = 3148
 	},
 }
 
