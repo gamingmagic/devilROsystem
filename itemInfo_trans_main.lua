@@ -177,7 +177,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Wings from an enormous White Butterfly.",
 			"Agi +10.",
-			"Perfect Dodge +5",
+			"Perfect Dodge +5.",
 			"Class:^6666CC Headgear^000000",
 			"Defense:^0000FF 0^000000",
 			"Position:^6666CC Lower^000000",
@@ -185,6 +185,24 @@ tbl = {
 		},
 		slotCount = 1,
 		ClassNum = 3148
+	},
+	[70011] = {
+		unidentifiedDisplayName = "Mask",
+		unidentifiedResourceName = "¸¶½ºÅ©",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Gargoyle Wings",
+		identifiedResourceName = "GARGOYLEWINGS",
+		identifiedDescriptionName = {
+			"Dex +10",
+			"Reduces damage taken from Undead by 10%.",
+			"Has a certain chance of inflicting the Stone Curse status to enemies when user receives Physical Damage.",
+			"Class:^6666CC Headgear^000000",
+			"Defense:^0000FF 0^000000",
+			"Position:^6666CC Lower^000000",
+			"Weight:^009900 10^000000",
+		},
+		slotCount = 1,
+		ClassNum = 3016
 	},
 }
 
