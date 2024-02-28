@@ -204,6 +204,120 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 3016
 	},
+	[2629] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Megingjord(Str)",
+		identifiedResourceName = "메긴기오르드",
+		identifiedDescriptionName = {
+			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
+			"Str +40",
+			"Mdef +7",
+			"Class:^6666CC Accessory^000000",
+			"Defense:^0000FF 2^000000",
+			"Weight:^009900 800^000000",
+			"Level Requirement:^009900 94^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[70012] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Megingjord(Agi)",
+		identifiedResourceName = "_blackmegs",
+		identifiedDescriptionName = {
+			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
+			"Agi +40",
+			"Mdef +7",
+			"Class:^6666CC Accessory^000000",
+			"Defense:^0000FF 2^000000",
+			"Weight:^009900 800^000000",
+			"Level Requirement:^009900 94^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[70013] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Megingjord(Vit)",
+		identifiedResourceName = "_bluemegs",
+		identifiedDescriptionName = {
+			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
+			"Vit +40",
+			"Mdef +7",
+			"Class:^6666CC Accessory^000000",
+			"Defense:^0000FF 2^000000",
+			"Weight:^009900 800^000000",
+			"Level Requirement:^009900 94^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[70014] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Megingjord(Int)",
+		identifiedResourceName = "_greenmegs",
+		identifiedDescriptionName = {
+			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
+			"Int +40",
+			"Mdef +7",
+			"Class:^6666CC Accessory^000000",
+			"Defense:^0000FF 2^000000",
+			"Weight:^009900 800^000000",
+			"Level Requirement:^009900 94^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[70015] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Megingjord(Dex)",
+		identifiedResourceName = "_redmegs",
+		identifiedDescriptionName = {
+			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
+			"Dex +40",
+			"Mdef +7",
+			"Class:^6666CC Accessory^000000",
+			"Defense:^0000FF 2^000000",
+			"Weight:^009900 800^000000",
+			"Level Requirement:^009900 94^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
+	[70016] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = { "Unknown Item, can be identified by using a ^6666CCMagnifier^000000." },
+		identifiedDisplayName = "Megingjord(Luk)",
+		identifiedResourceName = "_whitemegs",
+		identifiedDescriptionName = {
+			"A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.",
+			"Luk +40",
+			"Mdef +7",
+			"Class:^6666CC Accessory^000000",
+			"Defense:^0000FF 2^000000",
+			"Weight:^009900 800^000000",
+			"Level Requirement:^009900 94^000000",
+			"Jobs:^6666CC All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0
+	},
 }
 
 function main()
